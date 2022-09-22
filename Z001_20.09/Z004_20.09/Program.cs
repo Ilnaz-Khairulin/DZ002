@@ -1,4 +1,4 @@
-﻿int n = 6;
+﻿int n = 645;
 if(n<=99)
 {
     System.Console.WriteLine("нет третей цифры. ");
