@@ -1,19 +1,7 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
-        int n = 456;
-        int[] aray = new int[3];
-        while (n>0)
-        {
-            aray[0] = n % 10;
-            Console.WriteLine(aray[0]);
-            n = n / 10;
-            Console.WriteLine(n);
-            aray[0]++;
-        }
-         
-       Console.WriteLine(aray[1]);
-    }
+﻿int n = 456;
+n = n/10;
+n = n % 10;
+Console.WriteLine(n);
+      
     
-    }
+    

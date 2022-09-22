@@ -1,24 +1,7 @@
-﻿
+﻿int[] n = {15,25,35,44,55,6,17};
+int a = 0;
 
-
-internal partial class Program
-{
-    private static void Main(string[] args)
-    {
-        int[] n = {9,8,7,6,5,4,3};
-
-        int g = 0;
-
-        while(n[0] <= n.Length)
-        {
-            g = g + n[0];
-            System.Console.WriteLine(g);
-            n[0]++;
-        }
-        
-        Console.WriteLine(g);
-        g = g/7;
-
-        Console.WriteLine(g);
-    }
-}
+a = n[0]+n[1]+n[2]+n[3]+n[4]+n[5]+n[6];
+System.Console.WriteLine(a);
+a = a/7;
+System.Console.WriteLine(a);
