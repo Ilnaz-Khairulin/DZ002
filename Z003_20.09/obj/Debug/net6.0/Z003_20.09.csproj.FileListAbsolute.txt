@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.AssemblyInfo.cs
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\bin\Debug\net6.0\Z003_20.09.exe
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\bin\Debug\net6.0\Z003_20.09.deps.json
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\bin\Debug\net6.0\Z003_20.09.runtimeconfig.json
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\bin\Debug\net6.0\Z003_20.09.dll
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\bin\Debug\net6.0\Z003_20.09.pdb
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.dll
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\refint\Z003_20.09.dll
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.pdb
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\Z003_20.09.genruntimeconfig.cache
+C:\Users\home\Desktop\Uchoba\DZ002_Ilnaz\Z001_20.09\Z002_20.09\Z003_20.09\obj\Debug\net6.0\ref\Z003_20.09.dll
